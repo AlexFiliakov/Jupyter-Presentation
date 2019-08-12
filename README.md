@@ -3,6 +3,8 @@
 
 Reproducible Presentation and Publication workflows using Jupyter
 
+👩🏽‍🔬 research > 👨🏽‍💻 prototype > 👨🏿‍🏫 instruct
+
 - Jupyter Notebook post-save-hooks
     - Jupyter Lab (not all nbextensions)
     - maybe Grid Studio (not tested)
@@ -17,11 +19,7 @@ https://github.com/AlexFiliakov/python-practice
 
 # References
 
-## Python Basics
-
-https://github.com/AlexFiliakov/python-practice
-
-## Notes, example code and datasets for the online course Jupyter Notebook for Data Science.
+## Notes, example code and datasets for the online course Jupyter Notebook for Data Science
 
 https://github.com/AlexFiliakov/Jupyter-Notebook-for-Data-Science
 
