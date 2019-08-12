@@ -1,9 +1,7 @@
 
 # Jupyter-Presentation
 
-Reproducible Presentation and Publication workflows using Jupyter
-
-👩🏽‍🔬 research > 👨🏽‍💻 prototype > 👨🏿‍🏫 instruct
+👩🏽‍🔬 👨🏽‍💻 👨🏿‍🏫 Reproducible Presentation and Publication workflows using Jupyter
 
 - Jupyter Notebook post-save-hooks
     - Jupyter Lab (not all nbextensions)
