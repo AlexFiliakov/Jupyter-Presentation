@@ -1,9 +1,7 @@
 
 # Jupyter-Presentation
 
-Reproducible Presentation and Publication workflows using Jupyter
-
-👩🏽‍🔬 research > 👨🏽‍💻 prototype > 👨🏿‍🏫 instruct
+👩🏽‍🔬 👨🏽‍💻 👨🏿‍🏫 Reproducible Presentation and Publication workflows using Jupyter
 
 - Jupyter Notebook post-save-hooks
   - Jupyter Lab (not all nbextensions)
@@ -11,11 +9,11 @@ Reproducible Presentation and Publication workflows using Jupyter
   - maybe VS Neuron (not integrated)
 - RISE with React.js
 
-## Metaclasses
+## **WIP** Actuarial Engineering
 
 <img src="https://www.cosmic-core.org/wp-content/uploads/2018/10/rainbow-galaxy-lr.jpg" width="300px" />
 
-**WIP** practices/actuarial-engineering
+<practices/actuarial-engineering>
 
 ## Python Basics
 
