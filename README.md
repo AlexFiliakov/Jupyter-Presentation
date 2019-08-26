@@ -11,7 +11,18 @@
 
 ## **WIP** Actuarial Engineering
 
-<img src="https://www.cosmic-core.org/wp-content/uploads/2018/10/rainbow-galaxy-lr.jpg" width="300px" />
+<div style="background: url(https://www.cosmic-core.org/wp-content/uploads/2018/10/rainbow-galaxy-lr.jpg);
+  background-repeat: no-repeat;
+  background-size: 300px;
+  width=300px;
+  height:201px;
+  vertical-align: middle;
+  font-family:Times;
+  color:#efefef;
+  text-shadow: -1pt 0 #111, 0 1pt #111, 1pt 0 #111, 0 -1pt #111;
+  font-size:18pt;
+  display: block;
+  padding:60pt 16pt">Actuarial Engineering</div>
 
 <practices/actuarial-engineering>
 
@@ -31,7 +42,7 @@
 
 ## Saving your figs in publication quality format
 
-<img src="images/publish-chart.png" style="background: #efefef"/>
+<img src="images/publish-chart.png" style="background: #efefef;"/>
 
 [See cell In [19]: #bonus: some drafts for saving the fig in publication quality format](https://github.com/AlexFiliakov/PyTherm-applied-thermodynamics/blob/master/contents/main-lectures/2-numpy-matplotlib-vdW-EoS-isotherms.ipynb)
 
